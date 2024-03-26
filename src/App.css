@@ -1,7 +1,9 @@
 .bg-red {
   background-color: red;
 }
-
+.bg-RED {
+  background-color: red;
+}
 .bg-yellow {
   background-color: yellow;
 }
@@ -26,3 +28,6 @@
   background-color: black;
 }
 
+.bg-brown {
+  background-color: brown;
+}
