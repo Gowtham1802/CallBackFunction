@@ -10,13 +10,13 @@ const Callback = ({ getColor }) => {
   };
 
   return (
-    <div className="p-4">
+    <div className="p-[18rem] flex justify-center ">
       <input
         type="text"
         id="input"
         aria-label="input"
         placeholder="Enter color name (e.g., red, yellow, green)"
-        className="border p-2 rounded-md"
+        className="border p-2 rounded-md "
         onChange={handleChange}
         value={activeColor}
       />
