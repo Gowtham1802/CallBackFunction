@@ -1,33 +1,45 @@
-.bg-red {
+.bg-red,
+.bg-RED,
+.bg-Red,
+.bg-rEd,
+.bg-reD,
+.bg-REd,
+.bg-rED,
+.bg-ReD,
+.bg-der {
   background-color: red;
 }
-.bg-RED {
-  background-color: red;
-}
-.bg-yellow {
+.bg-yellow,
+.bg-YELLOW {
   background-color: yellow;
 }
 
-.bg-green {
+.bg-green,
+.bg-GREEN {
   background-color: green;
 }
 
-.bg-blue {
+.bg-blue,
+.bg-BLUE {
   background-color: blue;
 }
 
-.bg-orange {
+.bg-orange,
+.bg-ORANGE {
   background-color: orange;
 }
 
-.bg-pink {
+.bg-pink,
+.bg-PINK {
   background-color: pink;
 }
 
-.bg-black {
+.bg-black,
+.bg-BLACK {
   background-color: black;
 }
 
-.bg-brown {
+.bg-brown,
+.bg-BROWN {
   background-color: brown;
 }
